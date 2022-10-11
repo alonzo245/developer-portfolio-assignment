@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
     <Container theme={theme}>
       <Row>
         <H1 theme={theme}>Portfolio Website</H1>
-        <P>Level Up your Skills :)</P>
+        <P>Level Up your Skills</P>
         <StyledAnchorLink href="#about" theme={theme}>
           About me
         </StyledAnchorLink>
