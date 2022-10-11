@@ -14,7 +14,6 @@
     "@types/react-anchor-link-smooth-scroll": "^1.0.2",
     "@types/react-dom": "^17.0.0",
     "@types/react-infinite-scroller": "^1.2.3",
-    "@types/react-query": "^1.2.9",
     "antd": "^4.16.13",
     "axios": "^0.21.4",
     "gh-pages": "^4.0.0",
