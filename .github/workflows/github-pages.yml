@@ -21,4 +21,4 @@ jobs:
           git config --global user.name 'My Full Name'
           git config --global user.email 'noname@somekindofemailaddress.somthing.com'
           git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/${{ github.repository }}
-          npm run deploy
+          CI=falee npm run deploy
